@@ -1,0 +1,7 @@
+b72beb042400dc3b52d7d13e78cb6fee  texbat_base.conf
+66416757e69323fa2960b77408553b9a  cleanDynamic_r2_used.conf
+2c0a1803226b4af9ddc2ac7be76ee34f  /usr/local/bin/gnss-sdr
+-rwxrwxrwx 1 root        root        44291850240 2026-03-15 12:13 /mnt/hgfs/Database/TEXBAT/cleanDynamic.bin
+-rw-rw-r-- 1 thegreatwzr thegreatwzr        1644 2026-04-09 11:23 texbat_base.conf
+-rwxr-xr-x 1 root        root           14631856 2026-03-26 21:50 /usr/local/bin/gnss-sdr
+gnss-sdr version 0.0.20
